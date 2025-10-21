@@ -1,0 +1,32 @@
+{
+  "name": "create-express-api",
+  "version": "1.0.0",
+  "description": "CLI para criar projetos Express + Sequelize com boilerplate completo",
+  "main": "index.js",
+  "bin": {
+    "create-express-api": "./bin/cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "sequelize",
+    "boilerplate",
+    "cli",
+    "generator",
+    "rest-api"
+  ],
+  "author": "Lporchat",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^11.1.0",
+    "fs-extra": "^11.1.1",
+    "ora": "^5.4.1",
+    "prompts": "^2.4.2"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
