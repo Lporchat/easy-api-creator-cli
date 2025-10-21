@@ -1,5 +1,5 @@
 {
-  "name": "create-express-api",
+  "name": "easy-api-creator-cli",
   "version": "1.0.0",
   "description": "CLI para criar projetos Express + Sequelize com boilerplate completo",
   "main": "index.js",
